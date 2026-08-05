@@ -1,0 +1,15 @@
+{
+  "name": "Rekap Absensi Kajian Kitab",
+  "short_name": "Absensi Kitab",
+  "description": "Rekap absensi kajian kitab dari foto, deteksi tanda merah otomatis, export ke Excel — jalan offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4EEDF",
+  "theme_color": "#1F4838",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
